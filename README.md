@@ -1,5 +1,4 @@
-# escape-c
-Escape (Text Adventure Game) - C
+# Escape (Text Adventure Game) - C
 
 Michael D. McKinney
 
