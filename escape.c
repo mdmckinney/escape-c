@@ -40,14 +40,14 @@
 #include<string.h>
 
 // UNCOMMENT WHEN COMPILING FOR WINDOWS
-#include<windows.h>
+//#include<windows.h>
 
 /**********************************************************************
 *                           DEBUG FLAG                                *
 **********************************************************************/
 // 0 = DISABLED, 1 = ENABLED.  ENTER XYZZY AT ANY TIME DURING THE GAME
 // TO ACCESS THE DEBUG MENU.
-int debug = 1;
+int debug = 0;
 
 
 /**********************************************************************
